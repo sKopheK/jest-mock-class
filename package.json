@@ -1,0 +1,10 @@
+{
+    "name": "jest-mock-class",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.9.6",
+        "jest": "^25.4.0"
+    }
+}
